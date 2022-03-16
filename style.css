@@ -95,6 +95,7 @@ h3 {
     margin: 0;
     padding: 10%;
     border-radius: 0 0 10px 10px;
+    text-align: left;
 }
 
 .content p {
