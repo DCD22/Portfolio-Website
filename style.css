@@ -81,6 +81,7 @@ h3 {
     width: 300px;
     height: 200px;
     margin: 30% 0 0 0;
+    border-radius: 10px 10px 0 0;
 }
 
 .content {
@@ -93,6 +94,7 @@ h3 {
     height: 250px;
     margin: 0;
     padding: 10%;
+    border-radius: 0 0 10px 10px;
 }
 
 .content p {
